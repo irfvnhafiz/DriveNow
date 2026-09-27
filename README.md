@@ -29,26 +29,6 @@ DriveNow aims to streamline the car rental process by eliminating paperwork and 
 
 ## 🛠 Tech Stack
 
-* **Frontend:** *(e.g., React / Flutter / Vue / HTML, CSS, JavaScript)*
-* **Backend:** *(e.g., Node.js / Express / Laravel / Firebase / Django)*
-* **Database:** *(e.g., MySQL / PostgreSQL / MongoDB / Firebase Realtime DB)*
-* **Tools & API:** Git, GitHub, Postman
-
----
-
-## 🚀 Getting Started
-
-Follow these instructions to get a local copy up and running for development and testing.
-
-### Prerequisites
-
-Ensure you have the following installed:
-* [Node.js](https://nodejs.org/) *(or relevant runtime/framework)*
-* [Git](https://git-scm.com/)
-
-### Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/drivenow.git](https://github.com/your-username/drivenow.git)
-   cd drivenow
+* **Frontend:** *(ASP.NET, HTML, CSS)*
+* **Backend:** *(Javascript, C#)*
+* **Database:** *(MicrosoftSQL)*
