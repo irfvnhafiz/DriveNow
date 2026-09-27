@@ -16,12 +16,12 @@ DriveNow aims to streamline the car rental process by eliminating paperwork and 
 ## ✨ Key Features
 
 ### For Renters
-* **Vehicle Discovery:** Browse, filter, and search vehicles by category, location, and price.
+* **Vehicle Discovery:** Browse, filter, and search vehicles by category and price.
 * **Instant Booking:** Select travel dates, review rental terms, and reserve vehicles in real time.
 * **Booking History & Status:** Track upcoming, active, and past rental trips.
 
-### For Hosts / Admin
-* **Vehicle Listing Management:** Add, edit, or remove vehicle details, pricing, and availability.
+### For Staff / Admin
+* **Vehicle Listing Management:** Add, edit, or remove vehicle details, pricing and availability.
 * **Reservation Tracking:** Monitor incoming booking requests and status updates.
 * **Dashboard:** Overview of total bookings and vehicle performance.
 
